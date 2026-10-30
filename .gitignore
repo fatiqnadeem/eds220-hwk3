@@ -1,5 +1,10 @@
 .OTTER_LOG
 
+# Downloaded datasets (large; see exercise 1 in the notebook)
+data/Spill_Incidents_*.csv
+data/tl_2026_us_county/
+data/tl_2026_us_county.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
